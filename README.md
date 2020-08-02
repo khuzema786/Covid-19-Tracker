@@ -1,3 +1,9 @@
+# WORLDWIDE COVID-19 TRACKER
+
+- API endpoint to fetch covid-data, https://disease.sh/docs/
+
+### Some Features
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
