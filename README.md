@@ -1,8 +1,12 @@
 # WORLDWIDE COVID-19 TRACKER
 
-- API endpoint to fetch covid-data, https://disease.sh/docs/
+- API endpoint to fetch covid-19 data, https://disease.sh/docs/
 
 ### Some Features
+
+- Realtime live worldwide covid-19 status tracker
+- Night & Dark Mode
+- Material UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
